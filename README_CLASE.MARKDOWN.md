@@ -35,3 +35,4 @@ links [nomre de la web] (https://url.com)
 imágen ![texto alternativo] (https://url-de-la-imagen.jpg)
 imágen con link [![texto alternativo] (url-imagen)] (url-destino) 
 
+[![hello kitty] (https://cl.pinterest.com/pin/764134261810752934/)] (https://cl.pinterest.com/) 
