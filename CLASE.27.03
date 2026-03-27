@@ -26,3 +26,9 @@ ___
 * Setup se ejecuta una sola vez al principio (para crear el lienzo).  
 * Su proposito es configurar el entorno inicial.  
 * Defines el tamaño del lienzo, cargas imagenes o 
+
+___
+
+## createCanvas  
+
+* Sintaxis: createCanvas ([width], [height], [render], 
