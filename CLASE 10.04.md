@@ -29,6 +29,9 @@ ___
 * Para declarar variables dinámicas podemos usar **let** para variables dinámicas y **const** para variables constantes.
 * **OJO** antiguamente se usaba **var** en vez de **let**, se puede encontrar algunos tutoriales con var.
 
+![Crear Variables](https://github.com/user-attachments/assets/1138ef89-0b1b-4390-b993-e09b2606fc78) 
+
+
 ___
 
 ## Javascript Objects
