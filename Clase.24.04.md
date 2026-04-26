@@ -212,7 +212,8 @@ function draw() { //Función que se ejecuta en loop constantemente
   
 }
 ```
-![Encargo4](
+![Encargo4](https://github.com/user-attachments/assets/185e695e-0cd7-4fad-9fd3-90f9360e5759) 
+
 
 ___
 
