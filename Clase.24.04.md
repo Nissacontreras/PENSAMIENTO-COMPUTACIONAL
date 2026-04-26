@@ -13,6 +13,7 @@ ___
 
 ## Encargo de la clase pasada 
 
+```
 let angulo=0; //Creo una variable llamada angulo y le asigno el valor 0
 let x=0; //Creo una variable x y le asigno el valor 0
 let y=0; //Creo una variable y y le asigno el valor 0
@@ -210,7 +211,8 @@ function draw() { //Función que se ejecuta en loop constantemente
   rect(120, 80, 5, 430); //Crea un rectángulo delgado verticalmente en las coordenadas x,y
   
 }
-
+```
+![Encargo4](
 
 ___
 
