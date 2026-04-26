@@ -1,8 +1,6 @@
-# Clase viernes 10 de abril
-
 # Datos dinámicos  Variables  
 
-## **Posición del mouse**
+### **Posición del mouse**
 
 * Mouse X; Mouse Y
 
@@ -16,6 +14,7 @@ ___
 ## Variables integradas en p5.js
 
 ![Variables](https://github.com/user-attachments/assets/154177d4-38da-4cac-af54-6497ae35d04e)
+
 ![Variables2](https://github.com/user-attachments/assets/edf6466a-2031-4e00-9ba1-0dedf36de57d) 
 
 
